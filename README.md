@@ -3,6 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **PlayAfrika**, **Ayla**, **Epass**
+- :octocat: 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.dart`, `.py`
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
