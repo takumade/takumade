@@ -1,15 +1,22 @@
 ### Hi there i am Takunda Madechangu👋
 
-Here are some ideas to get you started:
+##### BIO
+<!-- - 🔭 I’m currently working on `Optimizo`, `PlayAfrika`, [Censored] -->
+- :octocat: I recently worked with the following technologies `Laravel`, `Flutter`, `TailwindCSS`, `AlpinJS`, `ReactJS`, `React Native`
+- 🌱 I’m currently updating my version..... Don't switch off your PC
+- 👨‍💻  How to reach me: ... [Twitter](https://twitter/takucoder), [Whatsapp](https://wa.me/263778548832?text=Hi%20Taku), [LinkedIn](https://www.linkedin.com/in/tmadechangu/), [DevTo](https://dev.to/takunda),  [My Website](https://taku.co.zw)
+- ⚡ Fun fact: I dream in code
 
-- 🔭 I’m currently working on **PlayAfrika**, **Ayla**, **Epass**
-- :octocat: 
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.dart`, `.py`
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+##### INTRESTS
+- :trollface: Meditation
+- :books: Reading
+- :mag_right: Research
+- :memo: Blogging
+- :earth_africa: Making the world a better place
+
+##### SKILLS
+- :snake: Python, Django
+- :iphone: Flutter, React Native
+- :computer: Laravel, CodeIgniter, NodeJS
+- :globe_with_meridians: HTML, CSS, JS + frameworks :laughing: :relaxed:
 
