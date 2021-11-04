@@ -1,7 +1,7 @@
 ### Hi there i am Takunda Madechangu👋
 
 ##### BIO
-<!-- - 🔭 I’m currently working on `Optimizo`, `PlayAfrika`, [Censored] -->
+- 🔭 I’m currently working on `PlayAfrika`, `JS Hub Zimbabwe`
 - :octocat: I recently worked with the following technologies `Laravel`, `Flutter`, `TailwindCSS`, `AlpinJS`, `ReactJS`, `React Native`
 - 🌱 I’m currently updating my version..... Don't switch off your PC
 - 👨‍💻  How to reach me: ... [Twitter](https://twitter/takucoder), [Whatsapp](https://wa.me/263778548832?text=Hi%20Taku), [LinkedIn](https://www.linkedin.com/in/tmadechangu/), [DevTo](https://dev.to/takunda),  [My Website](https://taku.co.zw)
