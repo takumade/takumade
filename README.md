@@ -20,4 +20,4 @@
 - :computer: Laravel, CodeIgniter, NodeJS
 - :globe_with_meridians: HTML, CSS, JS + frameworks :laughing: :relaxed:
 
-![Takumade's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumade&hide=contribs,prs)
+![Takumade's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumade)
