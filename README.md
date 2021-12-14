@@ -21,3 +21,5 @@
 - :globe_with_meridians: HTML, CSS, JS + frameworks :laughing: :relaxed:
 
 ![Takumade's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumade&count_private=true&show_icons=true&theme=algolia)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takumade&layout=compact)](https://github.com/anuraghazra/github-readme-stats
