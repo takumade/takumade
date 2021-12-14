@@ -20,4 +20,4 @@
 - :computer: Laravel, CodeIgniter, NodeJS
 - :globe_with_meridians: HTML, CSS, JS + frameworks :laughing: :relaxed:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamngoni&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takumade&show_icons=true&theme=tokyonight)
