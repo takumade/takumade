@@ -6,11 +6,11 @@
 - 🤨 I dream in code 
 
 ##### INTRESTS
-- :trollface: Meditation
-- :books: Reading
-- :mag_right: Research
-- :memo: Blogging
-- :earth_africa: Making the world a better place
+- :trollface:  Meditation
+- :books:  Reading
+- :mag_right:  Research
+- :memo:  Blogging
+- :earth_africa:  Making the world a better place
 
 ##### SKILLS
 - :snake: Python, Django
@@ -29,7 +29,7 @@
 ![Takumade's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumade&count_private=true&show_icons=true&theme=algolia)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takumade&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takumade&layout=compact&langs_count=16&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=takumade&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
