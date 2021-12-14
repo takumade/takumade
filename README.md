@@ -12,12 +12,18 @@
 - :memo:  Blogging
 - :earth_africa:  Making the world a better place
 
-##### SKILLS
-- :snake: Python, Django
-- :iphone: Flutter, React Native
-- :computer: Laravel, CodeIgniter
-- :globe_with_meridians: HTML, CSS, JS, ReactJS, NextJS, AlpineJS
-- 🎨 Bootstrap, Tailwind, Material
+##### LANGUAGES AND TOOLS
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Flutter" width="26px" object-fit = "cover" src="https://raw.githubusercontent.com/JohnKinyanjui/JohnKinyanjui/master/images/flutter.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/JohnKinyanjui/JohnKinyanjui/master/images/python.png" />
+<img align="left" alt="ReactJS" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+<img align="left" alt="NextJS" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/207px-Nextjs-logo.svg.png" />
+<img align="left" alt="Laravel" width="26px" src="https://laravel.com/img/logomark.min.svg" />
+<img align="left" alt="Flutter" width="76px" src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" />
+<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/JohnKinyanjui/JohnKinyanjui/master/images/django.png" />
+
+
+<br />
 
 ##### SOCIALS
 - [Twitter](https://twitter/takucoder)
