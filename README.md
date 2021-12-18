@@ -55,9 +55,7 @@
 - [My Website](https://taku.co.zw)
 
 ## STATISTICS 📊
-<!-- ![Takumade's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumade&count_private=true&show_icons=true&theme=algolia)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=takumade&theme=algolia)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- ![Takumade's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumade&count_private=true&show_icons=true&theme=algolia) -->
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
