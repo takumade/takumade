@@ -58,7 +58,7 @@
 <!-- ![Takumade's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumade&count_private=true&show_icons=true&theme=algolia) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -138,6 +138,6 @@ Python                   7 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/takumade/takumade/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/01/2022 18:44:15 UTC
+ Last Updated on 27/01/2022 18:44:22 UTC
 <!--END_SECTION:waka-->
 
