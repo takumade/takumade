@@ -1,7 +1,7 @@
 ### Hi there I am Takunda Madechangu👋, I am a Software Developer 👨🏽‍💻
 
 ## BIO 👨🏽‍💻
-- 💼. I work at [PlayAfrika](https://playafrika.tv)
+- 💼. I work at ...
 - 🎳  Member of [Javascript Hub ZW](https://github.com/JS-Hub-ZW), [Flutter Zimbabwe](https://github.com/flutterdevzim/)
 - 🤨 I dream in code 
 
