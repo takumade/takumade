@@ -1,10 +1,8 @@
 Hi 👋 My name is Takunda Madechangu
 ===================================
 
-Full Stack Developer
---------------------
 
-I'm a Zimbabwe-based🇿🇼 developer who specialises in building exceptional digital experiences My interest in development started back in 2017 when I discovered Python and decided to learn it — I would experiment with codes that i find on the web in order to understand how and why they work. My main focus these days is building accessible, inclusive products and digital experiences.
+I'm a **Full Stack Developer** who *specialises in building exceptional digital experiences*. My interest in development started back in 2017 when I discovered Python and decided to learn it — I would experiment with codes that i find on the web in order to understand how and why they work. My main focus these days is building accessible, inclusive products and digital experiences.
 
 * 🌍  I'm based in Zimbabwe
 * 🎳  Member of [Javascript Hub ZW](https://github.com/JS-Hub-ZW), [Flutter Zimbabwe](https://github.com/flutterdevzim/)
@@ -15,7 +13,8 @@ I'm a Zimbabwe-based🇿🇼 developer who specialises in building exceptional d
 * 🤝  I'm open to collaborating on any interesting projects
 * ⚡  I dream in code
 
-### Intrests
+## Intrests
+
 - 🧘🏾‍♂️  Meditation
 - 📖  Reading
 - 🕵🏾‍♂️  Research
@@ -23,7 +22,7 @@ I'm a Zimbabwe-based🇿🇼 developer who specialises in building exceptional d
 - 🌍  Making the world a better place
 
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -61,96 +60,26 @@ I'm a Zimbabwe-based🇿🇼 developer who specialises in building exceptional d
  
  
 
-### Socials
+## Socials
 
-<p align="left"> <a href="https://www.dev.to/takunda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/takumade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tmadechangu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12811744/takunda-madechangu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/takucoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://wa.me/263778548832?text=Hi%20Taku" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/165266/whatsapp.svg" width="32" height="32" /></a></p>
-
-
+ <p align="left"> <a href="https://www.dev.to/takunda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/takumade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tmadechangu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12811744/takunda-madechangu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/takucoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://wa.me/263778548832?text=Hi%20Taku" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/165266/whatsapp.svg" width="32" height="32" /></a></p>
 
 
 
 
 
-### Stats
+
+
+## Stats
+ 
 <!-- ![Takumade's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumade&count_private=true&show_icons=true&theme=algolia) -->
+ 
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takumade&theme=nord_bright" alt="tssovi" />
+</p>
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 166 Contributions in the Year 2022
- > 
-> 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 35 Public Repositories 
- > 
-> 🔑 31 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    282 commits    ██████░░░░░░░░░░░░░░░░░░░   27.19% 
-🌆 Daytime    442 commits    ██████████░░░░░░░░░░░░░░░   42.62% 
-🌃 Evening    198 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
-🌙 Night      115 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.09%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
-Tuesday      178 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.16% 
-Wednesday    232 commits    █████░░░░░░░░░░░░░░░░░░░░   22.37% 
-Thursday     134 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
-Friday       135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.02% 
-Saturday     99 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
-Sunday       106 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Africa/Harare
-
-💬 Programming Languages: 
-YAML                     16 mins             █████████████░░░░░░░░░░░░   51.91% 
-Dart                     14 mins             ███████████░░░░░░░░░░░░░░   45.82% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
-
-🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-PlayAfrikaTV             32 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in HTML** 
-
-```text
-HTML                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34% 
-PHP                      9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
-JavaScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-Dart                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/takumade/takumade/main/charts/bar_graph.png) 
-
-
- Last Updated on 18/02/2022 18:45:03 UTC
-<!--END_SECTION:waka-->
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takumade&theme=nord_bright" alt="tssovi" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takumade&theme=nord_bright" alt="tssovi" />
+</p>
 
