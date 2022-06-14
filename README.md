@@ -72,14 +72,19 @@ I'm a **Full Stack Developer** who *specialises in building exceptional digital 
 
 ## Stats
  
-<!-- ![Takumade's GitHub stats](https://github-readme-stats.vercel.app/api?username=takumade&count_private=true&show_icons=true&theme=algolia) -->
  
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takumade&theme=nord_bright" alt="tssovi" />
+<p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takumade&theme=github_dark" alt="tssovi" />
 </p>
 
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takumade&theme=nord_bright" alt="tssovi" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takumade&theme=nord_bright" alt="tssovi" />
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=takumade&show_icons=true&theme=github_dark" alt="takucoder"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takumade&theme=github_dark" alt="tssovi" />
 </p>
+ 
+ 
+
+ [![Richson' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=takumade&theme=tokyonight)]()
+
+
 
