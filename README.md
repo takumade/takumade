@@ -2,12 +2,11 @@ Hi 👋 My name is Takunda Madechangu
 ===================================
 
 
-I'm a **Full Stack Developer** who *specialises in building exceptional digital experiences*. My interest in development started back in 2017 when I discovered Python and decided to learn it — I would experiment with codes that i find on the web in order to understand how and why they work. My main focus these days is building accessible, inclusive products and digital experiences.
+I'm a **Full Stack Developer** who *specialises* in **crafting code that runs!**. 
 
 * 🌍  I'm based in Zimbabwe
 * 🎳  Member of [Javascript Hub ZW](https://github.com/JS-Hub-ZW), [Flutter Zimbabwe](https://github.com/flutterdevzim/), [Dimension Z](https://github.com/dimension-zee)
-* 🖥️  See my [portfolio here](http://taku.co.zw/)
-* ✉️  You can contact me at [madechangu.takunda@gmail.com](mailto:madechangu.takunda@gmail.com)
+* 🖥️  See my [work here](http://taku.co.zw/)
 * 🚀  I'm currently working on [Papapi](https://github.com/takumade/papapi)
 * 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on any interesting projects
