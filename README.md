@@ -1,8 +1,8 @@
-Hi 👋 My name is Takunda Madechangu
+Hi 👋 I am Takunda Madechangu
 ===================================
 
 
-I'm a **Full Stack Developer** who *specialises* in **crafting code that runs!**. 
+I'm a **Software Developer** 
 
 * 🌍  I'm based in Zimbabwe
 * 🎳  Member of [Javascript Hub ZW](https://github.com/JS-Hub-ZW), [Flutter Zimbabwe](https://github.com/flutterdevzim/), [Dimension Z](https://github.com/dimension-zee)
