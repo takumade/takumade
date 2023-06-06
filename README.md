@@ -6,7 +6,7 @@ I'm a **Software Developer**
 
 * 🌍  I'm based in Zimbabwe
 * 🎳  Member of [Javascript Hub ZW](https://github.com/JS-Hub-ZW), [Flutter Zimbabwe](https://github.com/flutterdevzim/), [Dimension Z](https://github.com/dimension-zee)
-* 🖥️  See my [work here](http://taku.co.zw/)
+* 🖥️  See my [work here]([http://taku.co.zw/](https://takucoder.dev/projects)
 * 🚀  I'm currently working on [Papapi](https://github.com/takumade/papapi)
 * 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on any interesting projects
