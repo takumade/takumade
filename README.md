@@ -1,7 +1,6 @@
 Hi 👋 I am Takunda Madechangu
 ===================================
 
-
 I'm a **Software Developer** 
 
 * 🌍  I'm based in Zimbabwe
