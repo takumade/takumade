@@ -1,6 +1,8 @@
 Hi 👋 I am Takunda Madechangu
 ===================================
 
+[![committers.top badge](https://user-badge.committers.top/zimbabwe/takumade.svg)](https://user-badge.committers.top/zimbabwe/takumade)
+
 I'm a **Software Developer** 
 
 * 🌍  I'm based in Zimbabwe
