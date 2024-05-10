@@ -22,7 +22,7 @@ I'm a **Software Developer**
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,alpinejs,ts,html,css,tailwind,materialui,react,jest,express,nextjs,php,laravel,nodejs,python,flask,mongodb,firebase,postgres,mysql,sqlite,graphql,dart,git,docker,kubernetes,linux,bash,md,nginx,selenium,bots,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,alpinejs,ts,html,css,tailwind,materialui,react,jest,express,nextjs,php,laravel,nodejs,python,flask,mongodb,firebase,postgres,mysql,sqlite,graphql,dart,git,docker,kubernetes,linux,bash,md,nginx,selenium,bots)](https://skillicons.dev)
 
 ## Socials
 
