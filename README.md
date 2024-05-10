@@ -1,7 +1,6 @@
 Hi 👋 I am Takunda Madechangu
 ===================================
 
-[![committers.top badge](https://user-badge.committers.top/zimbabwe/takumade.svg)](https://user-badge.committers.top/zimbabwe/takumade)
 
 I'm a **Software Developer** 
 
@@ -23,7 +22,7 @@ I'm a **Software Developer**
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,alpinejs,ts,jquery,html,css,tailwind,materialui,react,jest,express,nextjs,php,laravel,nodejs,python,flask,mongodb,firebase,postgres,mysql,sqlite,graphql,flutter,dart,git,docker,kubernetes,prometheus,grafana,ansible,linux,bash,regex,md,nginx,selenium,bots,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,alpinejs,ts,html,css,tailwind,materialui,react,jest,express,nextjs,php,laravel,nodejs,python,flask,mongodb,firebase,postgres,mysql,sqlite,graphql,dart,git,docker,kubernetes,linux,bash,md,nginx,selenium,bots,electron)](https://skillicons.dev)
 
 ## Socials
 
