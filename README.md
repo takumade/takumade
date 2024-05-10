@@ -1,37 +1,41 @@
-Hi 👋 I am Takunda Madechangu
-===================================
+# Takunda Madechangu - Fullstack Developer 👨🏾‍💻
+Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Developer committed to sculpting remarkable web and mobile applications. Equipped with a robust grasp of frontend and backend technologies, I offer a treasure trove of experience and proficiency.
 
 
-I'm a **Software Developer** 
+## Tech Stack
 
-* 🌍  I'm based in Zimbabwe
-* 🎳  Member of [Javascript Hub ZW](https://github.com/JS-Hub-ZW), [Flutter Zimbabwe](https://github.com/flutterdevzim/), [Dimension Z](https://github.com/dimension-zee)
-* 🖥️  See my [work here](https://takucoder.dev/portfolio/)
-* 🚀  I'm currently working on [Papapi](https://github.com/takumade/papapi)
-* 🧠  I'm learning Kubernetes
-* 🤝  I'm open to collaborating on any interesting projects
-* ⚡  I dream in code
+### Frontend
+- **JavaScript Frameworks:** ReactJS, React Native
+- **HTML/CSS Frameworks:** Bootstrap, Tailwind CSS, Material UI
+- **State Management:** Context API, Recoil , Zustand
+- **UI/UX Design:** Penpot
 
-## Intrests
+### Backend
+- **Languages:** JavaScript (Node.js), PHP (Laravel)
+- **API Development:** RESTful APIs, GraphQL
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase, Sqlite
+- **Server Management:** Express.js
 
-- 🧘🏾‍♂️  Silence
-- 📖  Reading
-- 🕵🏾‍♂️  Research
-- ✍🏽  Blogging
-- 🌍  Making the world a better place
+### DevOps & Cloud
+- **Version Control:** Git, GitLab, GitHub
+- **CI/CD:** GitLab CI/CD
+- **Containerization:** Docker, Podman
+<!-- - **Cloud Platforms:** Google Cloud Platform, Heroku -->
 
-## Skills
+### Other Skills
+- **Testing:** Jest, MOcha
+- **Security:** JWT, OAuth
+- **Project Management:** Agile, Kanban
 
 [![My Skills](https://skillicons.dev/icons?i=js,alpinejs,ts,html,css,tailwind,materialui,react,jest,express,nextjs,php,laravel,nodejs,python,flask,mongodb,firebase,postgres,mysql,sqlite,graphql,dart,git,docker,kubernetes,linux,bash,md,nginx,selenium,bots)](https://skillicons.dev)
 
+
+
 ## Socials
-
- <p align="left"> <a href="https://www.dev.to/takunda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/takumade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tmadechangu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/12811744/takunda-madechangu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/takucoder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://wa.me/263778548832?text=Hi%20Taku" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/165266/whatsapp.svg" width="32" height="32" /></a></p>
-
-
-
-
-
+- [DEV.to](https://www.dev.to/takunda)
+- [LinkedIN](https://www.linkedin.com/in/takucoder)
+- [X](https://www.x.com/takucoder)
+- [Whatsapp](https://wa.me/263778548832?text=Hi%20Taku)
 
 
 ## Stats
@@ -48,7 +52,7 @@ I'm a **Software Developer**
  
  
 
- [![Richson' Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=takumade&theme=tokyonight)]()
+ [![Takunda Github stats](https://github-readme-streak-stats.herokuapp.com/?user=takumade&theme=tokyonight)]()
 
 
 
