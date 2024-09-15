@@ -46,14 +46,7 @@ Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Develo
  
 <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takumade&theme=github_dark" alt="tssovi" />
-</p>
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=takumade&show_icons=true&theme=github_dark" alt="takucoder"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takumade&theme=github_dark" alt="tssovi" />
-</p>
- 
- 
+</p> 
 
  [![Takunda Github stats](https://github-readme-streak-stats.herokuapp.com/?user=takumade&theme=tokyonight)]()
 
