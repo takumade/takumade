@@ -30,9 +30,6 @@ Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Develo
 - **Security:** JWT, OAuth
 - **Project Management:** Agile, Kanban
 
-[![My Skills](https://skillicons.dev/icons?i=js,alpinejs,ts,html,css,tailwind,materialui,react,jest,express,nextjs,php,laravel,nodejs,python,flask,mongodb,firebase,postgres,mysql,sqlite,graphql,dart,git,docker,kubernetes,linux,bash,md,nginx,selenium,bots)](https://skillicons.dev)
-
-
 
 ## Socials
 - [DEV.to](https://www.dev.to/takunda)
@@ -42,13 +39,9 @@ Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Develo
 
 
 ## Stats
- 
- 
-<p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=takumade&theme=github_dark" alt="tssovi" />
-</p> 
-
  [![Takunda Github stats](https://github-readme-streak-stats.herokuapp.com/?user=takumade&theme=tokyonight)]()
 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/takucoder)
 
 
