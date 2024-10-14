@@ -7,7 +7,7 @@ Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Develo
 ### Frontend
 - **JavaScript Frameworks:** ReactJS, React Native
 - **HTML/CSS Frameworks:** Bootstrap, Tailwind CSS, Material UI
-- **State Management:** Context API, Recoil , Zustand
+- **State Management:** Context API, Recoil , Redux
 - **UI/UX Design:** Penpot
 
 ### Backend
