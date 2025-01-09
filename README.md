@@ -5,16 +5,14 @@ Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Develo
 ## Tech Stack
 
 ### Frontend
-- **JavaScript Frameworks:** ReactJS, React Native
+- **JavaScript Frameworks:** ReactJS, React Native, Next JS
 - **HTML/CSS Frameworks:** Bootstrap, Tailwind CSS, Material UI
-- **State Management:** Context API, Recoil , Redux
-- **UI/UX Design:** Penpot
+- **State Management:** Context API , Redux, Recoil
 
 ### Backend
-- **Languages:** JavaScript (Node.js), PHP (Laravel)
+- **Languages:** Node JS, Python, Go, PHP 
 - **API Development:** RESTful APIs, GraphQL
 - **Databases:** MongoDB, PostgreSQL, MySQL, Firebase, Sqlite
-- **Server Management:** Express.js
 
 ### Mobile Development
 - **Frameworks:** Flutter (Dart), React Native (Javascript)
@@ -22,14 +20,13 @@ Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Develo
 ### DevOps & Cloud
 - **Version Control:** Git, GitLab, GitHub
 - **CI/CD:** GitLab CI/CD
-- **Containerization:** Docker, Podman
+- **Containerization and Ochestration:** Docker, Podman, Kubernetes
 <!-- - **Cloud Platforms:** Google Cloud Platform, Heroku -->
 
 ### Other Skills
-- **Testing:** Jest, MOcha
+- **Testing:** Jest, Mocha, Cypress, Supertest
 - **Security:** JWT, OAuth
 - **Project Management:** Agile, Kanban
-
 
 ## Socials
 - [DEV.to](https://www.dev.to/takunda)
