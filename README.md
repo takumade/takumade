@@ -15,7 +15,7 @@ Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Develo
 - **Databases:** MongoDB, PostgreSQL, MySQL, Firebase, Sqlite
 
 ### Mobile Development
-- **Frameworks:** Flutter (Dart), React Native (Javascript)
+- **Frameworks:** Flutter, React Native 
 
 ### DevOps & Cloud
 - **Version Control:** Git, GitLab, GitHub
