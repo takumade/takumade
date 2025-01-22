@@ -28,12 +28,6 @@ Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Develo
 - **Security:** JWT, OAuth
 - **Project Management:** Agile, Kanban
 
-## Socials
-- [DEV.to](https://www.dev.to/takunda)
-- [LinkedIN](https://www.linkedin.com/in/takucoder)
-- [X](https://www.x.com/takucoder)
-- [Whatsapp](https://wa.me/263778548832?text=Hi%20Taku)
-
 
 ## Stats
  [![Takunda Github stats](https://github-readme-streak-stats.herokuapp.com/?user=takumade&theme=tokyonight)]()
