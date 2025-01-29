@@ -32,6 +32,8 @@ Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Develo
 ## Stats
  [![Takunda Github stats](https://github-readme-streak-stats.herokuapp.com/?user=takumade&theme=tokyonight)]()
 
+ [![committers.top badge](https://user-badge.committers.top/zimbabwe/USERNAME.svg)](https://user-badge.committers.top/zimbabwe/USERNAME)
+
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/takucoder)
 
