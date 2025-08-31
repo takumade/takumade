@@ -1,5 +1,5 @@
 # Takunda Madechangu - Fullstack Developer 👨🏾‍💻
-Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Developer committed to sculpting remarkable web and mobile applications. Equipped with a robust grasp of frontend and backend technologies, I offer a treasure trove of experience and proficiency.
+Step into my developer realm! I'm Takunda Madechangu, a fervent Fullstack Developer committed to sculpting remarkable web and mobile applications. Equipped with a robust grasp of frontend and backend technologies, I offer a treasure trove of experience and proficiency...
 
 
 ## Tech Stack
